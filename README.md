@@ -7,5 +7,9 @@ Kết quả Patern01_Abstract_Factory
 Kết quả Real01_Abstract_Factory
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/60883236-2993-48de-85b9-770bee975964" />
 
+Kết quả MyReal01_Abstract_Factory
+<img width="967" height="513" alt="image" src="https://github.com/user-attachments/assets/f7563120-b353-4cb3-9d8f-ebbdf6b8e9df" />
+
+
 
 

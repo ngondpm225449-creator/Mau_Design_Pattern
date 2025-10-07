@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B7A3BA-2A64-4533-B12A-C478462AC4EF}|DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory09_substitutealgorithm_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B7A3BA-2A64-4533-B12A-C478462AC4EF}|DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after.csproj|solutionrelative:dpm225449_trandinhngon_refactory09_substitutealgorithm_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E08D618-04A8-4CE1-BC99-6FD92ADE02A1}|DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory09_substitutealgorithm_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E08D618-04A8-4CE1-BC99-6FD92ADE02A1}|DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before.csproj|solutionrelative:dpm225449_trandinhngon_refactory09_substitutealgorithm_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B818B32A-82DC-441B-B7AF-A0605F92F2A0}|DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory08_replacemethodwithmethodobject_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B818B32A-82DC-441B-B7AF-A0605F92F2A0}|DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after.csproj|solutionrelative:dpm225449_trandinhngon_refactory08_replacemethodwithmethodobject_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EF1C50-3BDA-4A07-B25B-0AC583886488}|DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory08_replacemethodwithmethodobject_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EF1C50-3BDA-4A07-B25B-0AC583886488}|DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before.csproj|solutionrelative:dpm225449_trandinhngon_refactory08_replacemethodwithmethodobject_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3035FD8B-A5DF-433E-B57F-272876B57FEC}|DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory07_removeassignmentstoparameters_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3035FD8B-A5DF-433E-B57F-272876B57FEC}|DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after.csproj|solutionrelative:dpm225449_trandinhngon_refactory07_removeassignmentstoparameters_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98A5BCE-59F3-453F-9207-F693C4AE851F}|DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory07_removeassignmentstoparameters_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98A5BCE-59F3-453F-9207-F693C4AE851F}|DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before.csproj|solutionrelative:dpm225449_trandinhngon_refactory07_removeassignmentstoparameters_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFEAA19-3897-4C94-89FE-82DA022B8E04}|DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory06_splittemporaryvariable_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFEAA19-3897-4C94-89FE-82DA022B8E04}|DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after.csproj|solutionrelative:dpm225449_trandinhngon_refactory06_splittemporaryvariable_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99CFC2E-8381-433C-A4B7-FC88A359A2E0}|DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon\\dpm225449_trandinhngon_refactory06_splittemporaryvariable_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99CFC2E-8381-433C-A4B7-FC88A359A2E0}|DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before.csproj|solutionrelative:dpm225449_trandinhngon_refactory06_splittemporaryvariable_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:11:26.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:04:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:57:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:52:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:45:19.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:40:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:35:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:31:10.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon_real22_templatemethod\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|solutionrelative:dpm225449_trandinhngon_real22_templatemethod\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon_real22_templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|solutionrelative:dpm225449_trandinhngon_real22_templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECCE4AD-C59C-433A-94E9-51BF213B6AE0}|DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\DPM225449_TranDinhNgon_MyReal22_TemplateMethod.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon_myreal22_templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECCE4AD-C59C-433A-94E9-51BF213B6AE0}|DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\DPM225449_TranDinhNgon_MyReal22_TemplateMethod.csproj|solutionrelative:dpm225449_trandinhngon_myreal22_templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon_real22_templatemethod\\dataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|solutionrelative:dpm225449_trandinhngon_real22_templatemethod\\dataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|d:\\bao_tri_phan_mem\\dpm225449_trandinhngon\\dpm225449_trandinhngon_real22_templatemethod\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD760BB-31EB-428F-9129-823607A3656A}|DPM225449_TranDinhNgon_Real22_TemplateMethod\\DPM225449_TranDinhNgon_Real22_TemplateMethod.csproj|solutionrelative:dpm225449_trandinhngon_real22_templatemethod\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Products.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Products.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Products.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Products.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:47:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_MyReal22_TemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:51:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessor.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\DataAccessor.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\DataAccessor.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\DataAccessor.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\DataAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:47:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Categories.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Categories.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Categories.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Categories.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:47:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Program.cs",
+              "ToolTip": "D:\\Bao_Tri_Phan_Mem\\DPM225449_TranDinhNgon\\DPM225449_TranDinhNgon_Real22_TemplateMethod\\Program.cs",
+              "RelativeToolTip": "DPM225449_TranDinhNgon_Real22_TemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:46:56.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

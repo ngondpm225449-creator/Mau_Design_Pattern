@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DPM225449_TranDinhNgon_Real02_Builer/1.0.0": {
+        "runtime": {
+          "DPM225449_TranDinhNgon_Real02_Builer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM225449_TranDinhNgon_Real02_Builer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

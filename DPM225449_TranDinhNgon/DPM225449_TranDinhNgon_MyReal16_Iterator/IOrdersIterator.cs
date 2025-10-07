@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DPM225449_TranDinhNgon_MyReal16_Iterator
+{
+    public interface IOrdersIterator
+    {
+        Order First();
+        Order Next();
+        bool IsDone { get; }
+        Order CurrentOrder { get; }
+    }
+}

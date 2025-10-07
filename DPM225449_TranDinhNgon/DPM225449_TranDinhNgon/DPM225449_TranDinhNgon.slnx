@@ -1,0 +1,38 @@
+<Solution>
+  <Folder Name="/Extract Variable/">
+    <Project Path="DPM225449_TranDinhNgon_refactory03_ExtractVariable_after/DPM225449_TranDinhNgon_refactory03_ExtractVariable_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory03_ExtractVariable_before/DPM225449_TranDinhNgon_refactory03_ExtractVariable_before.csproj" />
+  </Folder>
+  <Folder Name="/ExtractMethod/">
+    <Project Path="DPM225449_TranDinhNgon_refactory01_ExtractMethod_after/DPM225449_TranDinhNgon_refactory01_ExtractMethod_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory01_ExtractMethod_before/DPM225449_TranDinhNgon_refactory01_ExtractMethod_before.csproj" />
+  </Folder>
+  <Folder Name="/InlineMethod/">
+    <Project Path="DPM225449_TranDinhNgon_refactory02_InlineMethod_after/DPM225449_TranDinhNgon_refactory02_InlineMethod_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory02_InlineMethod_before/DPM225449_TranDinhNgon_refactory02_InlineMethod_before.csproj" />
+  </Folder>
+  <Folder Name="/InlineTemp/">
+    <Project Path="DPM225449_TranDinhNgon_refactory04_InlineTemp_after/DPM225449_TranDinhNgon_refactory04_InlineTemp_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory04_InlineTemp_before/DPM225449_TranDinhNgon_refactory04_InlineTemp_before.csproj" />
+  </Folder>
+  <Folder Name="/Remove Assignments to Parameters/">
+    <Project Path="DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after/DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before/DPM225449_TranDinhNgon_refactory07_RemoveAssignmentstoParameters_before.csproj" />
+  </Folder>
+  <Folder Name="/Replace Method with Method Object/">
+    <Project Path="DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after/DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before/DPM225449_TranDinhNgon_refactory08_ReplaceMethodwithMethodObject_before.csproj" />
+  </Folder>
+  <Folder Name="/Replace Temp with Query/">
+    <Project Path="DPM225449_TranDinhNgon_refactory05_ReplaceTempwithQuery_after/DPM225449_TranDinhNgon_refactory05_ReplaceTempwithQuery_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory05_ReplaceTempwithQuery_before/DPM225449_TranDinhNgon_refactory05_ReplaceTempwithQuery_before.csproj" />
+  </Folder>
+  <Folder Name="/Split Temporary Variable/">
+    <Project Path="DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after/DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before/DPM225449_TranDinhNgon_refactory06_SplitTemporaryVariable_before.csproj" />
+  </Folder>
+  <Folder Name="/Substitute Algorithm/">
+    <Project Path="DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after/DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_after.csproj" />
+    <Project Path="DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before/DPM225449_TranDinhNgon_refactory09_SubstituteAlgorithm_before.csproj" />
+  </Folder>
+</Solution>
